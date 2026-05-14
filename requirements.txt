@@ -1,8 +1,7 @@
 pandas
 numpy
 matplotlib
-seaborn
 sentence-transformers
+qdrant-client
 tqdm
-scikit-learn
 jupyter
